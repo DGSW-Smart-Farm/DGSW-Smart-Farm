@@ -85,13 +85,13 @@ Co2센서 - https://www.mechasolution.com/shop/goods/goods_view.php?goodsno=5395
 LED 전구 - http://www.bissolled.com/shop/item.php?it_id=1532411830
 
 
-RPI Cam -
+RPI Cam
 - 야간용 : https://mechasolution.com/shop/goods/goods_view.php?goodsno=576342&category=
 - 주간용 : https://mechasolution.com/shop/goods/goods_view.php?goodsno=537776&category=
 
 
 
-RPI Cam Cable - 
+RPI Cam Cable
 - 15cm : https://mechasolution.com/shop/goods/goods_view.php?goodsno=542315&category=
 - 30cm : https://mechasolution.com/shop/goods/goods_view.php?goodsno=542316&category=
 - 50cm : https://mechasolution.com/shop/goods/goods_view.php?goodsno=542317&category=
