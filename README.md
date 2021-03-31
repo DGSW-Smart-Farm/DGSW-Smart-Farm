@@ -81,9 +81,7 @@ Ph센서 - https://www.mechasolution.com/shop/goods/goods_view.php?goodsno=42719
 
 Co2센서 - https://www.mechasolution.com/shop/goods/goods_view.php?goodsno=539552&category=
 
-
 LED 전구 - http://www.bissolled.com/shop/item.php?it_id=1532411830
-
 
 RPI Cam
 - 야간용 : https://mechasolution.com/shop/goods/goods_view.php?goodsno=576342&category=
