@@ -109,3 +109,5 @@ mini HDMI to HDMI - 2개
 
 릴레이 모듈 (2채널 12V) - 2개
   - https://www.devicemart.co.kr/goods/view?no=1327555
+
+* 총 가격: 약 675,490원
