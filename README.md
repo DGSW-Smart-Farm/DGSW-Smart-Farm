@@ -71,7 +71,7 @@
 
 ******
 
-## 구매해야 할 품목
+## 구매해야 할 품목 및 수량
 
 습도 - https://www.mechasolution.com/shop/goods/goods_view.php?goodsno=14232&category=
 
@@ -87,13 +87,11 @@ LED 전구 - http://bissolled.com/shop/item.php?it_id=1482193528
 
 라브베리파이 어댑터 - https://www.devicemart.co.kr/goods/view?no=1342118
 
+mini HDMI to HDMI - https://www.devicemart.co.kr/goods/view?no=12232873
+
 RPI Cam
 - 야간용 : https://mechasolution.com/shop/goods/goods_view.php?goodsno=576342&category=
 - 주간용 : https://mechasolution.com/shop/goods/goods_view.php?goodsno=537776&category=
 
 RPI Cam Cable
-- 15cm : https://mechasolution.com/shop/goods/goods_view.php?goodsno=542315&category=
-- 30cm : https://mechasolution.com/shop/goods/goods_view.php?goodsno=542316&category=
-- 50cm : https://mechasolution.com/shop/goods/goods_view.php?goodsno=542317&category=
 - 1m : https://mechasolution.com/shop/goods/goods_view.php?goodsno=542318&category=
-- 2m : https://mechasolution.com/shop/goods/goods_view.php?goodsno=542319&category=
