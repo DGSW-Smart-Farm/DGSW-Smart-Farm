@@ -73,25 +73,38 @@
 
 ## 구매해야 할 품목 및 수량
 
-습도 - https://www.mechasolution.com/shop/goods/goods_view.php?goodsno=14232&category=
+토양 수분센서 - 1개
+  - https://www.mechasolution.com/shop/goods/goods_view.php?goodsno=14232&category=
 
-Ph센서 - https://www.mechasolution.com/shop/goods/goods_view.php?goodsno=427195&category=
+아날로그 pH 센서 - 1개
+  - https://www.mechasolution.com/shop/goods/goods_view.php?goodsno=427195&category=
 
-Co2센서 - https://www.mechasolution.com/shop/goods/goods_view.php?goodsno=539552&category=
+아날로그 적외서 Co2 센서 - 1개
+  - https://www.mechasolution.com/shop/goods/goods_view.php?goodsno=539552&category=
 
-LED 전구 - http://bissolled.com/shop/item.php?it_id=1482193528
-
-환풍기 - http://item.gmarket.co.kr/Item?goodscode=1913206105
-
-라즈베리파이 - https://www.devicemart.co.kr/goods/view?no=1311414
-
-라브베리파이 어댑터 - https://www.devicemart.co.kr/goods/view?no=1342118
-
-mini HDMI to HDMI - https://www.devicemart.co.kr/goods/view?no=12232873
+식물 LED bar ( HB122 / 멀티 시작형) -2개
+  - http://bissolled.com/shop/item.php?it_id=1482193528
 
 RPI Cam
-- 야간용 : https://mechasolution.com/shop/goods/goods_view.php?goodsno=576342&category=
-- 주간용 : https://mechasolution.com/shop/goods/goods_view.php?goodsno=537776&category=
+  야간용 - 1개
+  - https://mechasolution.com/shop/goods/goods_view.php?goodsno=576342&category=
+
+  주간용 - 1개
+  - https://mechasolution.com/shop/goods/goods_view.php?goodsno=537776&category=
 
 RPI Cam Cable
-- 1m : https://mechasolution.com/shop/goods/goods_view.php?goodsno=542318&category=
+  1m - 2개
+  - https://mechasolution.com/shop/goods/goods_view.php?goodsno=542318&category=
+
+환기용 쿨러
+  NOCTUA 200mm - 2개
+  - http://item.gmarket.co.kr/Item?goodscode=1913206105
+
+라즈베리파이 알뜰 키트 (sd카드 32gb) - 2개
+  - https://www.devicemart.co.kr/goods/view?no=12718324
+
+라즈베리파이 어탭터 - 2개
+  - https://www.devicemart.co.kr/goods/view?no=1342118
+
+mini HDMI to HDMI - 2개
+  - https://www.devicemart.co.kr/goods/view?no=12232873
