@@ -83,6 +83,10 @@ LED 전구 - http://bissolled.com/shop/item.php?it_id=1482193528
 
 환풍기 - http://item.gmarket.co.kr/Item?goodscode=1913206105
 
+라즈베리파이 - https://www.devicemart.co.kr/goods/view?no=1311414
+
+라브베리파이 어댑터 - https://www.devicemart.co.kr/goods/view?no=1342118
+
 RPI Cam
 - 야간용 : https://mechasolution.com/shop/goods/goods_view.php?goodsno=576342&category=
 - 주간용 : https://mechasolution.com/shop/goods/goods_view.php?goodsno=537776&category=
