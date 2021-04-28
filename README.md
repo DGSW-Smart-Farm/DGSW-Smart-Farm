@@ -73,4 +73,4 @@
 
 ## 필요한 부품
 
-[부품 목록](https://docs.google.com/spreadsheets/d/1XJvjgaUQBzk-pX4oiXOvUBYcblVW1Bj3yihk69gNnpE/edit#gid=0]
+[부품 목록](https://docs.google.com/spreadsheets/d/1XJvjgaUQBzk-pX4oiXOvUBYcblVW1Bj3yihk69gNnpE/edit#gid=0)
