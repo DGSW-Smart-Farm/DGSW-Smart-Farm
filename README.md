@@ -71,43 +71,6 @@
 
 ******
 
-## 구매해야 할 품목 및 수량
+## 필요한 부품
 
-토양 수분센서 - 1개
-  - https://www.mechasolution.com/shop/goods/goods_view.php?goodsno=14232&category=
-
-아날로그 pH 센서 - 1개
-  - https://www.mechasolution.com/shop/goods/goods_view.php?goodsno=427195&category=
-
-아날로그 적외서 Co2 센서 - 1개
-  - https://www.mechasolution.com/shop/goods/goods_view.php?goodsno=539552&category=
-
-식물 LED bar ( HB122 / 멀티 시작형) -2개
-  - http://bissolled.com/shop/item.php?it_id=1482193528
-
-RPI Cam
-  야간용 - 1개
-  - https://mechasolution.com/shop/goods/goods_view.php?goodsno=576342&category=
-
-  주간용 - 1개
-  - https://mechasolution.com/shop/goods/goods_view.php?goodsno=537776&category=
-
-RPI Cam Cable (1m - 2개)
-  - https://mechasolution.com/shop/goods/goods_view.php?goodsno=542318&category=
-
-환기용 쿨러 (NOCTUA 200mm - 3개)
-  - http://item.gmarket.co.kr/Item?goodscode=1913206105
-
-라즈베리파이 알뜰 키트 (sd카드 32gb) - 2개
-  - https://www.devicemart.co.kr/goods/view?no=12718324
-
-라즈베리파이 어탭터 - 2개
-  - https://www.devicemart.co.kr/goods/view?no=1342118
-
-mini HDMI to HDMI - 2개
-  - https://www.devicemart.co.kr/goods/view?no=12232873
-
-릴레이 모듈 (2채널 12V) - 2개
-  - https://www.devicemart.co.kr/goods/view?no=1327555
-
-* 총 가격: 약 675,490원
+[부품 목록](https://docs.google.com/spreadsheets/d/1XJvjgaUQBzk-pX4oiXOvUBYcblVW1Bj3yihk69gNnpE/edit#gid=0]
